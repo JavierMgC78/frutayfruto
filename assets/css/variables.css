@@ -4,15 +4,6 @@
     
     /*Desktop*/
     --minWidthBody: 1282px;
-    --maxWidthBody: 1300px;
-
-    /*Cabecera*/
-    
-
-    /*Banner*/
-    
-    --heigthImg: calc(var(--widthImg)*var(--ratioImg));
-    
-    
+    --maxWidthBody: 1300px;   
 
 }
