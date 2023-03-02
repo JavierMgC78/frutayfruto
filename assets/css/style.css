@@ -1,0 +1,23 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    min-width: var(--minWidthBody);
+    max-width: var(--maxWidthBody);
+    margin: 0 auto;
+    background-color: var(--grayBackgroundBody);
+}
+
+
+h1{
+    font-size: 3.5rem;
+}
+
+h2{
+    font-size: 3rem;
+}
+
+p, a{
+    font-size: 2rem;
+}

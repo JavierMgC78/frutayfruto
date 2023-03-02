@@ -1,0 +1,24 @@
+/* DESKTOP */
+.sobre{
+    width: 100%;
+    height: 200px;
+    background-color: white;
+}
+
+.sobre__title{
+    text-align: center;
+    font-weight: 300;
+    font-size: 4rem;
+    line-height: 10rem;
+    font-family: 'Pacifico';
+    color: #DA2B1F;
+}
+
+.sobre__description{
+    font-family: 'Roboto';
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 300;
+    color: #8C8888;
+
+}

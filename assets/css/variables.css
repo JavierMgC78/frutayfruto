@@ -1,0 +1,18 @@
+:root{
+    /* Colors*/
+    --grayBackgroundBody: #f9f9f9;
+    
+    /*Desktop*/
+    --minWidthBody: 1282px;
+    --maxWidthBody: 1300px;
+
+    /*Cabecera*/
+    
+
+    /*Banner*/
+    
+    --heigthImg: calc(var(--widthImg)*var(--ratioImg));
+    
+    
+
+}
