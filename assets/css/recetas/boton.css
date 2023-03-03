@@ -1,0 +1,20 @@
+/* DESKTOP */
+.receta__boton{
+    border: 0;
+    border-radius: 5px;
+    background-color: #DA2B1F;
+
+    margin-left: 2rem;
+    padding: 1rem .8rem;
+
+    font-size: 1.8rem;
+    line-height: 2.1rem;
+    font-weight: 600;
+    color: white;
+
+    transition: background-color .1s ease-in-out;
+}
+.receta__boton:hover{
+    cursor: pointer;
+    background-color: #9f1010;
+}

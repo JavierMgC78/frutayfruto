@@ -1,0 +1,13 @@
+/* DESKTOP */
+.recetas{
+    width: 100%;
+    height: auto;
+    padding: 8rem 8rem;
+    box-sizing: border-box;
+    background-color: #DAB997;
+
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    row-gap: 8rem;
+}
