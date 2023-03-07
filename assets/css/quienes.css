@@ -1,0 +1,21 @@
+/* DESKTOP */
+
+.quienes{
+    padding: 3rem 5rem;
+    background-color: white;
+}
+
+.quienes__titulo{
+    color: #DA2B1F;
+    font-family: 'Pacifico';
+    text-align: center;
+    font-size: 5rem;
+    font-weight: 400;
+}
+
+.quienes__descripcion{
+    font-family: 'Roboto';
+    text-align: center;
+    color: #595959;
+    font-weight: 100;;
+}
