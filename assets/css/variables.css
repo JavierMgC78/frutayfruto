@@ -2,8 +2,16 @@
     /* Colors*/
     --grayBackgroundBody: #f9f9f9;
     
+    /*Movil*/
+    --minWidthBody_m: 500px;
+    --maxWidthBody_m: 767px;   
+
     /*Desktop*/
-    --minWidthBody: 1282px;
+    --minWidthBody: 768px;
     --maxWidthBody: 1300px;   
+
+    /*cabecera*/
+    --cabecera_heigth_m: 150px;
+    --cabecera_heigth_d: 50px;
 
 }

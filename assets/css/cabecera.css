@@ -1,8 +1,32 @@
+/* MOVIL */
+@media screen and (max-width: 767px){
+    .cabecera{
+        width: 100%;
+        height: var(--cabecera_heigth_m);
+        display: flex;
+        flex-direction: column;
+
+        align-items: center;
+        justify-content: space-between;
+    
+        background-color: #f9f9f9;
+    }
+
+    
+}
+
+
 /* DESKTOP */
+@media screen and (min-width: 768px){
+
 .cabecera{
+    width: 100%;
     display: flex;
+    flex-direction: row;
     align-items: center;
     justify-content: space-between;
 
     background-color: #f9f9f9;
- }
+}
+
+}

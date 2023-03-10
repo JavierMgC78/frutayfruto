@@ -1,7 +1,22 @@
-.personas{
-    display: flex;
-    justify-content: space-between;
+/* MOVIL */
+@media screen and (max-width: 767px) {
+    .personas{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
 
-    margin-top: 5rem;
+        margin-top: 5rem;
+    }
+}
+
+/* DESKTOP*/
+@media screen and (min-width: 768px) {
+    .personas{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+
+        margin-top: 5rem;
+    }
 }
 

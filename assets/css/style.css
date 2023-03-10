@@ -30,3 +30,23 @@ p, a{
     font-size: 2rem;
     font-family: 'Roboto';
 }
+
+@media screen and (max-width: 767px) {
+    body{
+        min-width: var(--minWidthBody_m);
+        max-width: var(--maxWidthBody_m);
+        padding-left: 1rem;
+        padding-right: 1rem;
+
+    }
+
+}
+
+@media screen and (min-width: 768px) {
+    body{
+        min-width: var(--minWidthBody);
+        max-width: var(--maxWidthBody);
+
+    }
+
+}
